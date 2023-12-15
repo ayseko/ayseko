@@ -1,10 +1,11 @@
 
-### Hi there 👋, My name is Ayse
-#### FS Automation Test Engineer | Salesforce developer
+<h1 align="center">Hi there 👋, My name is Ayse</h1>
+<h2 align="center">FS Automation Test Engineer | Salesforce developer</h2>
+
 
 <br>
 <p align="center">
-<img align="center" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="center" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 
@@ -27,7 +28,7 @@
 </p>
 
 <br>
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayseko&theme=dark" alt="anii693" /></p>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayseko&theme=light" alt="anii693" /></p>
 <br>
 
 
