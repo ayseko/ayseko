@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, My name is Ayse</h1>
-<h2 align="center">FS Automation Test Engineer | Salesforce developer</h2>
+<h2 align="center">FS Automation Test Engineer | Salesforce Administrator & App Builder & Developer</h2>
 
 
 <br>
