@@ -1,13 +1,14 @@
+
 ### Hi there 👋, My name is Ayse
 #### FS Automation Test Engineer | Salesforce developer
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<br>
+<p align="center">
+<img align="center" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
 
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
  
 </div>
@@ -25,9 +26,17 @@
   </a>
 </p>
 
- 
- 
- 📫 ayseko1989@gmail.com 
+<br>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayseko&theme=dark" alt="anii693" /></p>
+<br>
+
+
+
+
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ayseko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ayse-kocabas/)  
